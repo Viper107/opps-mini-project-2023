@@ -1,0 +1,6 @@
+-----------------------------------------
+        WELCOME USERS TO DROP BOX
+-----------------------------------------
+
+user1:hello
+user1:exam is scheduled
